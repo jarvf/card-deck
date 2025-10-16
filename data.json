@@ -1,4 +1,4 @@
-[[
+[
   { "name": "King of Swords",     "number": "",   "suit": "Swords",     "image": "images/king_of_swords.png" },
   { "name": "Eight of Cups",      "number": "VIII","suit": "Cups",       "image": "images/eight_of_cups.png" },
   { "name": "Ace of Pentacles",   "number": "Ace","suit": "Pentacles",  "image": "images/ace_of_pentacles.png" },
@@ -9,6 +9,4 @@
   { "name": "Page of Swords",     "number": "",   "suit": "Swords",     "image": "images/page_of_swords.png" },
   { "name": "Queen of Pentacles", "number": "",   "suit": "Pentacles",  "image": "images/queen_of_pentacles.png" },
   { "name": "Five of Pentacles",  "number": "V",  "suit": "Pentacles",  "image": "images/five_of_pentacles.png" }
-]
-
 ]
